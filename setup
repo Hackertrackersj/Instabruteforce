@@ -4,11 +4,11 @@ echo
 echo "        Setting up first time installation.....!"
 echo
 cd $HOME
-pkg install python -y
-pkg install python2 -y
-pkg install tor -y
-pkg install git -y
-pkg install wget -y
+apt install python -y
+apt install python2 -y
+apt install tor -y
+apt install git -y
+apt install wget -y
 pip install lolcat
 pip install --upgrade pip
 pip3 install requests --upgrade
