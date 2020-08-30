@@ -17,7 +17,7 @@ pip3 install stem
 pip3 install instagram-py
 cd $HOME
 wget -O ~/instapy-config.json "https://git.io/v5DGy"
-cd $HOME/ighack
+cd $HOME/Instabruteforce
 cd /data/data/com.termux/files/usr/etc/tor
 rm torrc
 cd $HOME/Instabruteforce
