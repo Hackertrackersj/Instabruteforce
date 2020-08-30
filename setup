@@ -20,7 +20,7 @@ wget -O ~/instapy-config.json "https://git.io/v5DGy"
 cd $HOME/ighack
 cd /data/data/com.termux/files/usr/etc/tor
 rm torrc
-cd $HOME/ighack
+cd $HOME/Instabruteforce
 mv torrc /data/data/com.termux/files/usr/etc/tor
 cd $HOME
 tor
