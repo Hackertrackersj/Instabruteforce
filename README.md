@@ -10,7 +10,7 @@ This program will brute force any Instagram account you send it its way given a 
 It motivates me to keep updating this program.
 
 
-> **PayPal:** shobhitstthakur105@gmail.com
+> **PayPal:** johnconstant99@gmail.com
 
 ## Requirements
 
@@ -121,7 +121,7 @@ python instagram.py -u <username> -p <passlist>
 [-] Browsers: 273
 [-] Exists: True
 ```
-
+ 
 ### Stop
 
 ```
