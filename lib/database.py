@@ -7,7 +7,7 @@ import sqlite3
 
 # from os import remove
 # from sys import version_info
-from lib.const import db_path
+from .const import db_path
 from os.path import exists as path
 
 # from csv import DictWriter, DictReader
